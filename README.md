@@ -8,7 +8,7 @@
 Aplikasi Kalkulator Bernama "CalcLite"
 * **Aplikasi Rujukan:** Calculator OS 18
 * **Link Rujukan:** https://play.google.com/store/apps/details?id=com.nhstudio.icalculator
-### 3. Fitur Utama yang Dibuat (Checklist)
+### 3. Fitur yang Dibuat (Checklist)
 - [x] Login (Autentikasi Firebase)
 - [x] List Riwayat (Simpan & Tampilkan Riwayat)
 - [x] Add Data (menghitung)
