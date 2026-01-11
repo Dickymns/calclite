@@ -27,6 +27,5 @@ Aplikasi Kalkulator Bernama "CalcLite"
 ### 5. Cara Menjalankan Aplikasi
 1. Clone atau Download Zip repositori ini dari Githup.
 2. Buka folder proyek menggunakan Android Studio.
-   
 3.tunggu proses Sync Gradle hingga selesai.
 4. Klik tombol "Run" (ikon segitiga hijau) untuk menjalankan aplikasi di Emulator atau HP Android.
