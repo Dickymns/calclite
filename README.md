@@ -17,13 +17,18 @@ Aplikasi Kalkulator Bernama "CalcLite"
 - [x] Notifikasi (Pop-up setelah hitung)
 
 ### 4. Screenshot Aplikasi
-1. **Login** ![WhatsApp Image 2026-01-11 at 14 31 45](https://github.com/user-attachments/assets/599c93bd-4ad3-41d4-9492-30f386a0437f)
-3. **List Riwayat** ![WhatsApp Image 2026-01-11 at 14 31 46](https://github.com/user-attachments/assets/8ee3ea0f-feec-40f8-9346-fdbb919c776d)
-4. **Add Data** ![WhatsApp Image 2026-01-11 at 14 31 45 (2)](https://github.com/user-attachments/assets/12cd6b65-abd0-482a-9050-fa394b0cd01a)
-5. **Edit/Delete** ![WhatsApp Image 2026-01-11 at 14 31 46 (1)](https://github.com/user-attachments/assets/e6ff39ef-9831-4ffe-9143-34f867634101)
-6. **Detail** ![WhatsApp Image 2026-01-11 at 14 31 47](https://github.com/user-attachments/assets/f2882337-5cc3-4801-8b10-ce2c1dfb9905)
-7. **Notifikasi** ![WhatsApp Image 2026-01-11 at 14 31 45 (1)](https://github.com/user-attachments/assets/49bf2826-e0dc-4501-ad84-57bf105dcf12)
-
+1. **Halaman Login (Autentikasi Pengguna)**
+2. **Halaman List Riwayat (Daftar Riwayat)** 
+3. **Halaman Add Data (Input Perhitungan)** 
+4. **Halaman Edit/Delete(Kelola Data atau Menghapus Data)**
+5. **Halaman Detail (Detail Perhitungan)** 
+6. **Halaman Notifikasi (Notifikasi Data Yang Telah Dioperasikan)**
+ ![WhatsApp Image 2026-01-11 at 14 31 45](https://github.com/user-attachments/assets/599c93bd-4ad3-41d4-9492-30f386a0437f)
+ ![WhatsApp Image 2026-01-11 at 14 31 46](https://github.com/user-attachments/assets/8ee3ea0f-feec-40f8-9346-fdbb919c776d)
+ ![WhatsApp Image 2026-01-11 at 14 31 45 (2)](https://github.com/user-attachments/assets/12cd6b65-abd0-482a-9050-fa394b0cd01a)
+ ![WhatsApp Image 2026-01-11 at 14 31 46 (1)](https://github.com/user-attachments/assets/e6ff39ef-9831-4ffe-9143-34f867634101)
+ ![WhatsApp Image 2026-01-11 at 14 31 47](https://github.com/user-attachments/assets/f2882337-5cc3-4801-8b10-ce2c1dfb9905)
+ ![WhatsApp Image 2026-01-11 at 14 31 45 (1)](https://github.com/user-attachments/assets/49bf2826-e0dc-4501-ad84-57bf105dcf12)
 ### 5. Cara Menjalankan Aplikasi
 1. Clone atau Download Zip repositori ini dari Githup.
 2. Buka folder proyek menggunakan Android Studio.
