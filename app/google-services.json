@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638749695608",
+    "firebase_url": "https://calclite-default-rtdb.firebaseio.com",
+    "project_id": "calclite",
+    "storage_bucket": "calclite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638749695608:android:044cada9f6ec785901178d",
+        "android_client_info": {
+          "package_name": "com.nimsaya.calclite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638749695608-4kfeuita84mfql75krvdm2asugie7upu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimsaya.calclite",
+            "certificate_hash": "dced2d46078afdca4848640b5ab73b4710a30a05"
+          }
+        },
+        {
+          "client_id": "638749695608-4la9uvugf6699n5ubkqsbn6435o9151g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHD2_p0oErUV9oRCyJsVmrgbZX_6znvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638749695608-4la9uvugf6699n5ubkqsbn6435o9151g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
