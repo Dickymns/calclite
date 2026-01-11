@@ -22,7 +22,7 @@ Aplikasi Kalkulator Bernama "CalcLite"
 3. **Halaman Add Data (Input Perhitungan)** 
 4. **Halaman Edit/Delete(Kelola Data atau Menghapus Data)**
 5. **Halaman Detail (Detail Perhitungan)** 
-6. **Halaman Notifikasi (Notifikasi Data Yang Telah Dioperasikan)**
+6. **Halaman Notifikasi (Notifikasi Riwayat Tersimpan)**
    
  ![WhatsApp Image 2026-01-11 at 14 31 45](https://github.com/user-attachments/assets/599c93bd-4ad3-41d4-9492-30f386a0437f)
  ![WhatsApp Image 2026-01-11 at 14 31 46](https://github.com/user-attachments/assets/8ee3ea0f-feec-40f8-9346-fdbb919c776d)
