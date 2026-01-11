@@ -1,5 +1,4 @@
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/d3d5be75-c980-4ccc-9b68-4ef18084ec7d" /># Project UAS - Calclite App
-
+# Project UAS - Calclite App
 ### Identitas Mahasiswa
 * **Nama:** KOMANG DICKY
 * **NIM:** 2304411782
