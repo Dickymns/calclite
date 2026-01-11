@@ -4,7 +4,7 @@
 * **NIM:** 2304411782
 * **Kelas:** 5K GAB 3 RPL
 
-### 2. Tema Aplikasi & Aplikasi Rujukan
+### 2. Tema Aplikasi & Aplikasi Rujukan Play Store
 Aplikasi Kalkulator Bernama "CalcLite"
 * **Aplikasi Rujukan:** Calculator OS 18
 * **Link Rujukan:** https://play.google.com/store/apps/details?id=com.nhstudio.icalculator
