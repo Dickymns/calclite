@@ -11,9 +11,10 @@ Aplikasi Kalkulator Bernama CalcLite
 * **Link Rujukan:** https://play.google.com/store/apps/details?id=com.nhstudio.icalculator
 ### Fitur Utama (Checklist)
 - [x] Login (Autentikasi Firebase)
-- [x] Real-time Database (Simpan & Tampilkan Riwayat)
+- [x] List Riwayat (Simpan & Tampilkan Riwayat)
+- [x] Add Data (menghitung)
+- [x] Edit/Delete (Menghapus Riwayat) 
 - [x] Detail Riwayat (Navigasi Intent)
-- [x] CRUD Delete (Hapus Riwayat)
 - [x] Notifikasi (Pop-up setelah hitung)
 
 ### Screenshot Aplikasi
